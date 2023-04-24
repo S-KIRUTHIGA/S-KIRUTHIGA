@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @S-KIRUTHIGA
-- 👀 I’m interested in Node.js and Data Visualization using POWERBI
--
--
+- 👀 I’m interested in Node.js,Data Visualization using POWERBI,Data Analytics
+
 
 
 <!---
