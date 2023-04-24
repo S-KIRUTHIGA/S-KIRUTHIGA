@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @S-KIRUTHIGA
-- 👀 I’m interested in Ruby
-- 🌱 I’m currently learning Ruby
+- 👀 I’m interested in Node.js and Data Visualization using POWERBI
+-
 -
 
 
